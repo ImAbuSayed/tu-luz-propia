@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-luz-propia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tu luz propia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-luz-propia/) |
+| **Get License** | [Get License For Tu luz propia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-luz-propia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7b6635966df0bfb77ff32df211603a6538e798961083d1108647dbd8e6befc6c` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

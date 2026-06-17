@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu luz propia
+
+This log tracks the cryptographic history and versioning for the song **Tu luz propia** (tu-luz-propia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T16:00:11.333550 | `v1` | `7b6635966df0bfb77ff32df211603a6538e798961083d1108647dbd8e6befc6c` | `8947799e28ad7f46cae20f2c1ad985bb09bda6032c83f37431c4f1f6f44ecec8` | `2026-06-17_tu-luz-propia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
