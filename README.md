@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-luz-propia/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu luz propia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-luz-propia/) |
+| **Get License** | [License this song: Tu luz propia](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-luz-propia/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú tienes tu luz propia, brillando en la oscuridad
+> Cuando me miras así, me llenas de curiosidad
+> Solo quiero tenerte cerquita aquí en la pista de baile
+> Un movimiento suave, dejamos que el humo exhale
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
